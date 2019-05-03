@@ -160,3 +160,5 @@ for i in range(len(testValues)):
 
 print("hitting rate：")
 print((num_right/num_test))
+
+# 准确率
